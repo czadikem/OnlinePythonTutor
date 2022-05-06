@@ -36,7 +36,7 @@ I haven't yet cleanly packaged up. By default, the local version you run will
 *call my own server to run the non-Python backends*, so please be mindful of
 your bandwidth usage.
 
-Note: I can't provide technical support for users who want to install Python Tutor on their own computers/servers (read details here).
+Note: *I can't provide technical support for users who want to install Python Tutor on their own computers/servers ([read details here](unsupported-features.md))*
 
 For further directions, see [Overview for Developers](v3/docs/developer-overview.md) or explore the [rest of the docs](v3/docs/).
 
